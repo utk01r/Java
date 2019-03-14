@@ -1,6 +1,6 @@
 @interface MyAnnotation
 {
-	
+	System.out.println("Sorry, for make changes in your Good example");
 } 
 
 public class AnnotationsDemo
